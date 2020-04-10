@@ -1,4 +1,4 @@
-# TestAngularL10nNew
+# test-angular-l10n
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
